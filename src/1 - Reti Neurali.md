@@ -1,23 +1,26 @@
 
 ## Reti Neuronali
 
-Nell'ambito della neurofisiologia, il cervello viene definito come un organo complesso, costituito da un intricato tessuto di cellule interconnesse note come neuroni. Questa rete di neuroni, che forma la struttura fondamentale del cervello, è ciò che definiamo come **rete neuronale**. Analizzando il cervello umano da una prospettiva quantitativa, emerge che esso contiene:
+Per la neurofisiologia, un cervello è un organo formato da cellule tra loro connesse che prendono il nome di **neuroni**. Nel suo complesso, quindi, un cervello è una **rete neuronale**.
+Nel caso specifico del cervello umano, normalmente si ritiene che:
 
 - Un numero di neuroni stimato nell'ordine di $10^{11}$
 - Più di 20 differenti tipi di neuroni, ognuno dei quali svolge funzioni specifiche
-- Un numero di connessioni sinaptiche tra i neuroni che si aggira intorno a $10^{14}$
+- Un numero di connessioni sinaptiche tra i neuroni, che si aggira intorno a $10^{14}$
 
-La rete neuronale umana si caratterizza per il suo elevato numero di neuroni, per lo più omogenei tra loro, connessi da un numero relativamente limitato di sinapsi, con ogni neurone in media collegato a circa mille altri. Queste connessioni sono cruciali per il trasporto di **informazioni** attraverso la rete, permettendo a ogni neurone di **ricevere** e **inviare** dati a un limitato numero di altri neuroni, con un tempo di reazione di circa 1 millisecondo (lento se paragonato alle prestazioni di un calcolatore).
+Quindi, la rete neuronale che forma un cervello umano è caratterizzata da un **enorme numero di neuroni**, per lo più **omogenei** tra loro, connessi da un **numero relativamente basso di sinapsi** ( ogni neurone in media è collegato a circa mille altri). Queste connessioni permettono di trasportare le informazioni attraverso la rete, permettendo a ogni neurone di **ricevere** e **inviare** dati a un limitato numero di neuroni, con un tempo di reazione di circa 1 millisecondo (lento se paragonato alle prestazioni di un calcolatore).
 
 ![[Neurone.png|600]]
 
 La figura mostra una schematizzazione delle parti principali di un neurone:
 
-- Il **soma**, che è il corpo centrale del neurone, contiene il **nucleo** e le principali componenti cellulari.
-- I **dendriti**, che sono protrusioni che si estendono dal soma, capaci di ricevere informazioni attraverso il movimento di ioni (cariche elettriche).
-- Le **sinapsi**, punti di contatto dove avviene la trasmissione di segnali tra neuroni, situati alle estremità delle **arborizzazioni** dell'**assone**.
+- Il **soma**, il corpo centrale del neurone, che contiene il **nucleo** e le principali componenti cellulari
 
-Il trasporto di informazioni, e quindi la comunicazione, tra i neuroni avviene mediante l'interazione tra dendridi e sinapsi di diversi neuroni. Quindi, ogni neurone ha una struttura abbastanza semplice in grado di elaborare le informazioni veicolate dal trasporto di ioni mediante dendridi e sinapsi.
+- I **dendridi**, che sono i collegamenti in grado di veicolare informazioni mediante il movimento di ioni (cariche elettriche)
+
+- Le **sinapsi**, che sono i punti di interfaccia tra diversi neuroni e si trovano nelle parti terminali delle arborizzazioni dell’assone di ogni neurone.
+
+Il trasporto di informazioni, e quindi la comunicazione, tra i neuroni avviene mediante l'interazione tra dendridi e sinapsi di diversi neuroni. Quindi, ogni neurone ha una struttura semplice in grado di elaborare le informazioni veicolate dal trasporto di ioni mediante dendridi e sinapsi.
 
 ## Reti Neurali
 
